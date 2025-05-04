@@ -1,0 +1,12 @@
+create project 
+    1. python -m venv venv
+
+active project
+    1. source venv/bin/activate
+
+install package
+    1. pip install flask
+    2. pip install rembg
+    3. pip install pillow
+    4. pip install onnxruntime
+    5. brew install xz (lzma)
